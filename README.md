@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨🏼‍🎓 Pursuing my Bachelors at Electro-Mechanical Engineering Technology</p>
+<p align="left">👨🏼‍🎓 Pursuing my Bachelors in Electro-Mechanical Engineering Technology</p>
 
 ###
 
