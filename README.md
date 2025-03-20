@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2 align="left">Hi! I'm Alexandre, an Electronic & Electrical Engineer</h2>
 
-<!--
-**AlexandreVB9/AlexandreVB9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">👨🏼‍🎓 Pursuing my Bachelors at Electro-Mechanical Engineering Technology</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/01/71/5d/01715d903f85b151035284ed601fdfd0.gif"  />
+</div>
+
+###
